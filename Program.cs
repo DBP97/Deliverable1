@@ -1,7 +1,7 @@
 /*
 Author: Deep Patel
 Date: 06/26/2023
-Description:C# Programming: Conditional and Iterative Statement
+Description: C# Programming: Conditional and Iterative Statement
 */
 
 using System;
